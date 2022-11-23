@@ -1,0 +1,11 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+.Saludo
+{
+    display: grid;
+    grid-template-columns: repeat(1fr,4);
+    border:solid black 5px;
+}
